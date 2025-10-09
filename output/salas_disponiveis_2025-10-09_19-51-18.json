@@ -1,0 +1,6870 @@
+{
+  "salas_disponiveis": [
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "122",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "122",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "122",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "122",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "VICTOR CIVITA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "122",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "122",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "122",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "VICTOR CIVITA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "122",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "VICTOR CIVITA",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "122",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": null
+    }
+  ],
+  "salas_ocupadas": [
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "122",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "5º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "5º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º MEC/MECAT A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - DECISION MAKING AND NEGOTIATION"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "DOUTORADO EM ECONOMIA DOS NEGÓCIOS - DAEN2025"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "7º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º MEC/MECAT/COMP C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "3º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º CIÊNCIA DA COMPUTAÇÃO LINGUAEPARAD_4A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "ELETIVA - DIREITO DAS FAMÍLIAS E DAS SUCESSÕES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ADMINISTRAÇÃO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º ADMINISTRAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - COMPUTATIONAL FLUID DYNAMICS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - DIREITO DA EMPRESA EM CRISE"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º MEC/MECAT/COMP BC"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "VICTOR CIVITA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "07:30 - 08:00",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "122",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "5º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "5º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º MEC/MECAT A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - DECISION MAKING AND NEGOTIATION"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "DOUTORADO EM ECONOMIA DOS NEGÓCIOS - DAEN2025"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "7º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º MEC/MECAT/COMP C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "3º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "PROGRAMA DE FORMAÇÃO EXECUTIVA SUZANO - EEPCPFES2413"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º CIÊNCIA DA COMPUTAÇÃO LINGUAEPARAD_4A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "ELETIVA - DIREITO DAS FAMÍLIAS E DAS SUCESSÕES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "GRABER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ADMINISTRAÇÃO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º ADMINISTRAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - COMPUTATIONAL FLUID DYNAMICS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - DIREITO DA EMPRESA EM CRISE"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º MEC/MECAT/COMP BC"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "VICTOR CIVITA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "08:00 - 08:30",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "122",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "5º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "5º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º MEC/MECAT A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - DECISION MAKING AND NEGOTIATION"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "DOUTORADO EM ECONOMIA DOS NEGÓCIOS - DAEN2025"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO JURÍDICA DE EMPRESAS ESTATAIS - EEGJEP2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "7º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º MEC/MECAT/COMP C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "BUSINESS UP AMBEV - EEPCBUA2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "3º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "PROGRAMA DE FORMAÇÃO EXECUTIVA SUZANO - EEPCPFES2413"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º CIÊNCIA DA COMPUTAÇÃO LINGUAEPARAD_4A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "ELETIVA - DIREITO DAS FAMÍLIAS E DAS SUCESSÕES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "IA APLICADA AOS NEGÓCIOS - EEIANEG2502"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "NEGÓCIOS IMOBILIÁRIOS: CIDADE, MERCADO E DADOS - EENICMD2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MARKETING ESTRATÉGICO - EEMKE2403"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO DE RISCOS EM COMERCIALIZAÇÃO NO AGRONEGÓCIO  - EECGRAGRO2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": "LEADERSHIP JOURNEY - GRUPO SILVIO SANTOS\t - EEPCLSGSS_T3"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ADMINISTRAÇÃO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º ADMINISTRAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - COMPUTATIONAL FLUID DYNAMICS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - DIREITO DA EMPRESA EM CRISE"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º MEC/MECAT/COMP BC"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "VICTOR CIVITA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:00 - 09:30",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "3º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "1º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "3º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "121",
+      "predio": "",
+      "curso": "5º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "122",
+      "predio": "",
+      "curso": "3º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "7º ENGENHARIA MECATRÔNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "DOUTORADO EM ECONOMIA DOS NEGÓCIOS - DAEN2025"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - STARTUP ENTREPRENEURIAL ECOSYSTEMS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "1º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "5º ENGENHARIA MECÂNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - ESTRATÉGIA E PROJETO DA PRODUÇÃO"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "214",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - EXPERIMENTING WITH ARTIFICIAL INTELLIGENCE"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO JURÍDICA DE EMPRESAS ESTATAIS - EEGJEP2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "1º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º CIÊNCIA DA COMPUTAÇÃO AC_2025_62_LINUXUBUN"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - QUANTITATIVE FINANCE"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "BUSINESS UP AMBEV - EEPCBUA2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "ELETIVA - BUSINESS AND HUMAN RIGHTS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "PROGRAMA DE FORMAÇÃO EXECUTIVA SUZANO - EEPCPFES2413"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "513",
+      "predio": "",
+      "curso": "1º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "514",
+      "predio": "",
+      "curso": "1º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "IA APLICADA AOS NEGÓCIOS - EEIANEG2502"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "NEGÓCIOS IMOBILIÁRIOS: CIDADE, MERCADO E DADOS - EENICMD2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MARKETING ESTRATÉGICO - EEMKE2403"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO DE RISCOS EM COMERCIALIZAÇÃO NO AGRONEGÓCIO  - EECGRAGRO2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": "LEADERSHIP JOURNEY - GRUPO SILVIO SANTOS\t - EEPCLSGSS_T3"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "6º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ADMINISTRAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º ADMINISTRAÇÃO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "5º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - EXPERIMENTING WITH ARTIFICIAL INTELLIGENCE"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "5º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "LABORATÓRIO REALIDADE VIRTUAL E JOGOS DIGITAIS",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - CRISES ECONÔMICAS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - PROPRIEDADE INTELECTUAL E INOVAÇÃO"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ENGENHARIA MECATRÔNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "PETER DRUCKER",
+      "predio": "",
+      "curso": "1º CIÊNCIA DA COMPUTAÇÃO 1DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - CONTROLE DE NANOSSATÉLITES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "TECHLAB",
+      "predio": "",
+      "curso": "ELETIVA - MATERIALS, PROCESSES AND SYSTEMS FOR ADVANCED MANUFACTURING"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "VICTOR CIVITA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - MERCADOS FINANCEIROS 360°: NEGÓCIOS E OPORTUNIDADES DE CARREIRA NA INDÚSTRIA FINANCEIRA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "09:30 - 10:00",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA MECÂNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º MEC/MECAT A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO JURÍDICA DE EMPRESAS ESTATAIS - EEGJEP2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "DOUTORADO EM ECONOMIA DOS NEGÓCIOS - DOT102024"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "BUSINESS UP AMBEV - EEPCBUA2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º ADMINISTRAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "IA APLICADA AOS NEGÓCIOS - EEIANEG2502"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "NEGÓCIOS IMOBILIÁRIOS: CIDADE, MERCADO E DADOS - EENICMD2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MARKETING ESTRATÉGICO - EEMKE2403"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO DE RISCOS EM COMERCIALIZAÇÃO NO AGRONEGÓCIO  - EECGRAGRO2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - GESTÃO DE ESPORTES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - JUSTIÇA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "6º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - DRONES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "6º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "VICTOR CIVITA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:00 - 12:30",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA MECÂNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º MEC/MECAT A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO JURÍDICA DE EMPRESAS ESTATAIS - EEGJEP2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "DOUTORADO EM ECONOMIA DOS NEGÓCIOS - DOT102024"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "BUSINESS UP AMBEV - EEPCBUA2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º ADMINISTRAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "IA APLICADA AOS NEGÓCIOS - EEIANEG2502"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "NEGÓCIOS IMOBILIÁRIOS: CIDADE, MERCADO E DADOS - EENICMD2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MARKETING ESTRATÉGICO - EEMKE2403"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO DE RISCOS EM COMERCIALIZAÇÃO NO AGRONEGÓCIO  - EECGRAGRO2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - GESTÃO DE ESPORTES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "BM&F BOVESPA 2",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - JUSTIÇA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "6º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - DRONES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "6º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "VICTOR CIVITA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "12:30 - 13:00",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "7º ENGENHARIA MECÂNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º MEC/MECAT A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "DOUTORADO EM ECONOMIA DOS NEGÓCIOS - DOT102024"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "408",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º ADMINISTRAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "PROGRAMA DE FORMAÇÃO EXECUTIVA SUZANO - EEPCPFES2408"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "AMADOR AGUIAR",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - GESTÃO DE ESPORTES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "6º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - DRONES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "6º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "VICTOR CIVITA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "13:00 - 13:30",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "6º ENGENHARIA MECÂNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "121",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º MEC/MECAT A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "4º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO JURÍDICA DE EMPRESAS ESTATAIS - EEGJEP2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "4º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "410",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "6º ENGENHARIA MECATRÔNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "BUSINESS UP AMBEV - EEPCBUA2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "PROGRAMA DE FORMAÇÃO EXECUTIVA SUZANO - EEPCPFES2408"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "3º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "IA APLICADA AOS NEGÓCIOS - EEIANEG2502"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "NEGÓCIOS IMOBILIÁRIOS: CIDADE, MERCADO E DADOS - EENICMD2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MARKETING ESTRATÉGICO - EEMKE2403"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO DE RISCOS EM COMERCIALIZAÇÃO NO AGRONEGÓCIO  - EECGRAGRO2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "EUGÊNIO GUDIN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - FINANÇAS PARA ENGENHARIA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º MEC/MECAT/COMP AC"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "LABORATÓRIO ARQUITETURA DE COMPUTADORES",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "6º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 1",
+      "predio": "",
+      "curso": "2º MEC/MECAT/COMP C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "LABORATÓRIO REDES E SUPERCOMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "6º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - GESTÃO DE PATRIMÔNIO E PLANEJAMENTO FINANCEIRO PESSOAL"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "6º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - BLOCKCHAIN"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ADMINISTRAÇÃO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "ROBERTO COCHRANE SIMONSEN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - LAW & ECONOMICS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - GLOBAL NEGOTIATIONS: LEGAL AND POLITICAL STRATEGIES"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "14:00 - 14:30",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "3º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "3º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - INTRODUÇÃO À TEORIA DA RELATIVIDADE"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "1º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "ELETIVA - INTRAEMPREENDEDORISMO DIGITAL"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - ADVANCED VEHICLE TECHNOLOGY I - PROPULSION SYSTEMS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "1º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - SMART OPERATIONS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO JURÍDICA DE EMPRESAS ESTATAIS - EEGJEP2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "1º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "421",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "BUSINESS UP AMBEV - EEPCBUA2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º ADMINISTRAÇÃO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "424",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "PROGRAMA DE FORMAÇÃO EXECUTIVA SUZANO - EEPCPFES2408"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - NATURAL LANGUAGE PROCESSING"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "2º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "524",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "IA APLICADA AOS NEGÓCIOS - EEIANEG2502"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "901",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "NEGÓCIOS IMOBILIÁRIOS: CIDADE, MERCADO E DADOS - EENICMD2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MARKETING ESTRATÉGICO - EEMKE2403"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "903",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "GESTÃO DE RISCOS EM COMERCIALIZAÇÃO NO AGRONEGÓCIO  - EECGRAGRO2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º CIÊNCIA DA COMPUTAÇÃO 1DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "BM&F BOVESPA 1",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - PYTHON PARA CIÊNCIA DE DADOS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ADMINISTRAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ENGENHARIA MECATRÔNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "5º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ENGENHARIA MECÂNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "VICTOR CIVITA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "6º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "16:30 - 17:00",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "111",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "3º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "112",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "3º MEC/MECAT B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "113",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - INTRODUÇÃO À TEORIA DA RELATIVIDADE"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "1º MEC/MECAT/COMP B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "123",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "ELETIVA - INTRAEMPREENDEDORISMO DIGITAL"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - ADVANCED VEHICLE TECHNOLOGY I - PROPULSION SYSTEMS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "212",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "1º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - SMART OPERATIONS"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "312 - LAB DE EXPERIÊNCIA DE COMPUTAÇÃO",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "1º CIÊNCIA DA COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "404 - LABORATÓRIO DE INFORMÁTICA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "6º CIÊNCIAS ECONÔMICAS A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "423",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º ADMINISTRAÇÃO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "513",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "2º MEC/MECAT/COMP A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "514",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - NATURAL LANGUAGE PROCESSING"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "4º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "2º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "902",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MARKETING ESTRATÉGICO - EEMKE2403"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "EDUCAÇÃO EXECUTIVA ROCONTEC - EEPCEER2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "ALBERTO BANDEIRA DE QUEIROZ",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º CIÊNCIA DA COMPUTAÇÃO 1DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": "MASTER EM FINANÇAS E GESTÃO - CONSTRUCAP - EEPCMFG_202424"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "FRANCISCA J.P. DE ALBUQUERQUE MORAES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "JORGE PAULO LEMANN",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ADMINISTRAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ENGENHARIA MECATRÔNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "LABORATÓRIO DESENVOLVIMENTO COLABORATIVO ÁGIL 2",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "5º ENGENHARIA DE COMPUTAÇÃO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "3º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO D"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º CIÊNCIAS ECONÔMICAS B"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "TECHLAB",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "5º ENGENHARIA MECÂNICA A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "VICTOR CIVITA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "6º DIREITO A"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:00 - 18:30",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO C"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "1º DIREITO AC_2025_62_PRATJURID"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "EDUCAÇÃO EXECUTIVA ROCONTEC - EEPCEER2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "18:30 - 19:00",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": "FORMAÇÃO DE LIDERANÇAS FEMININAS EM FINANÇAS PÚBLICAS TN/BB - EELLPCLFFP25T2"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "MBM10"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "CFM89"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - MACHINE LEARNING"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "CFM87"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "1º DIREITO AC_2025_62_PRATJURID"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "EDUCAÇÃO EXECUTIVA ROCONTEC - EEPCEER2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": "FORMAÇÃO DE LIDERANÇAS FEMININAS EM FINANÇAS PÚBLICAS TN/BB - EELLPCLFFP25T2"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - APLICAÇÕES DE CONTROLE DIGITAL"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - DIREITO DA INFRAESTRUTURA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MBM12"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:00 - 19:30",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MESTRADO PROFISSIONAL EM ADMINISTRAÇÃO - MPA18"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "114",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "MBM10"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "201",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MBE96"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "203",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "CFM89"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "206",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "APF22"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "211",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "ELETIVA - MACHINE LEARNING"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "213",
+      "predio": "PRÉDIO QUATÁ 200",
+      "curso": "MBF92"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "302",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "APE02"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "308",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "CFM87"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "407",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MBA9490"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "422",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "1º DIREITO AC_2025_62_PRATJURID"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "522",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "APF25"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "523",
+      "predio": "PRÉDIO QUATÁ 67",
+      "curso": "LLMMF27"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "904",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "EDUCAÇÃO EXECUTIVA ROCONTEC - EEPCEER2501"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "AULA REMOTA",
+      "predio": "",
+      "curso": "FAMILY OFFICE: FUNDAMENTOS PRÁTICAS E SOLUÇÕES - EELLFO2504"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "EUDORO VILLELA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "PAS07"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "JOSÉ ERMÍRIO DE MORAES FILHO",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "2º ADM/ECO DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "JOÃO GERDAU",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "PAS06"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "LAC – LABORATÓRIO DE ACIONAMENTOS E CONTROLE",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - APLICAÇÕES DE CONTROLE DIGITAL"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "LUIZ MARTINS DE SOUZA DANTAS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "ELETIVA - DIREITO DA INFRAESTRUTURA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "MARCOS LOPES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "LLMDS33"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "MARIO HABERFELD",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "APE01"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "MAX FEFFER",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "LLMDS35"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "OCTAVIO GOUVEA DE BULHÕES",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MBM12"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "OLAVO SETUBAL",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "1º ADM/ECO DPA"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "PAULO RENATO SOUZA",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "MESTRADO PROFISSIONAL EM ADMINISTRAÇÃO - MPA18"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "SEBASTIÃO CAMARGO",
+      "predio": "",
+      "curso": "MBA9894"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "VICENTE FALCONI CAMPOS",
+      "predio": "PRÉDIO CLAUDIO HADDAD (QUATÁ,300)",
+      "curso": "LLC18"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "VICTOR CIVITA",
+      "predio": "",
+      "curso": "APE03"
+    },
+    {
+      "data": "2025-10-09",
+      "dia_semana": "Quinta-feira",
+      "horario": "19:30 - 20:00",
+      "sala": "WALTHER MOREIRA SALLES",
+      "predio": "",
+      "curso": "MBA10096"
+    }
+  ]
+}
