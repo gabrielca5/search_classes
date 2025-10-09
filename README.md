@@ -30,11 +30,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Observações
-- Os nomes de arquivos de saída incluem timestamp e ficam em `output/`.
-- Presumi que o objetivo do projeto é localizar "salas disponíveis" a partir de alguma fonte/scraper — ajuste a descrição caso a finalidade seja diferente.
-
-Contribuições / contato
-- Abra uma issue ou PR no repositório.
-- Adicione uma licença (`LICENSE`) se desejar permitir uso explícito.
 
