@@ -1,33 +1,81 @@
 ## search-classes — busca de salas disponíveis
 
-> Pequeno utilitário Python que gera uma lista de salas disponíveis (JSON + XLSX).
+> Utilitário Python para busca inteligente de cursos, salas disponíveis e gerenciamento de horários no Insper.
 
-Principais pontos
-- Objetivo: executar uma busca/extração e produzir arquivos com salas disponíveis.
-- Saída: arquivos gerados na pasta `output/` (ex.: `salas_disponiveis_YYYY-MM-DD_HH-MM-SS.json` / `.xlsx`).
+## Principais funcionalidades
 
-Requisitos
-- Python 3.10+ (recomenda-se usar virtualenv).
-- Dependências em `requirements.txt`.
+- 🔍 **Buscar cursos** - encontre todas as aulas de um curso específico
+- 🏫 **Salas livres** - localize salas disponíveis em um intervalo de tempo
+- 👥 **Comparar horários** - encontre horários em comum entre múltiplos cursos
+- 📊 **Relatório de disponibilidade** - visualize quais salas estão livres em cada horário
+- 💡 **Sugestões inteligentes** - receba recomendações de salas alternativas
+- 🚨 **Alertas de conflito** - seja notificado sobre conflitos de horários
 
-Como usar (rápido)
-1. Abra um terminal PowerShell e entre na pasta do projeto:
+## Saída
 
-```powershell
-cd "c:\Users\gabri\OneDrive\INSPER\Projetos pessoais\search-classes\search_classes"
-```
+Os dados são formatados de forma clara e pronta para copiar no WhatsApp, com:
+- Lista de aulas com professor, sala e horário
+- Resumo do dia (total de aulas, professores, horários)
+- Análise de conflitos
+- Sugestões de salas alternativas
+- Relatório de disponibilidade
 
-2. Crie/ative um ambiente virtual (opcional, recomendado):
+## Requisitos
 
-```powershell
-python -m venv env; .\env\Scripts\Activate.ps1
-```
+- Python 3.10+
+- Dependências em `requirements.txt`
 
-3. Instale dependências e execute:
+## Como usar
 
-```powershell
+1. **Instale as dependências:**
+
+```bash
 pip install -r requirements.txt
-python main.py
 ```
+
+2. **Execute o programa:**
+
+```bash
+python buscar_curso.py
+```
+
+3. **Escolha uma opção do menu:**
+   - Buscar curso
+   - Encontrar salas livres
+   - Comparar horários de cursos
+   - Relatório de disponibilidade
+
+## Configuração
+
+Edite as constantes no início do arquivo para customizar:
+
+```python
+XML_URL = "https://cgi.insper.edu.br/Agenda/xml/ExibeCalendario.xml"
+CURSO_BUSCADO = "2º CIÊNCIA DA COMPUTAÇÃO A"
+SALA_REFERENCIA = "513"
+PREDIO_REFERENCIA = "Quata 200"
+MAX_RETRIES = 3
+REQUEST_TIMEOUT = 15
+```
+
+## Estrutura do projeto
+
+```
+search_classes/
+├── buscar_curso.py       # Script principal com todas as funcionalidades
+├── requirements.txt      # Dependências do projeto
+├── README.md            # Este arquivo
+└── output/              # Pasta para arquivos gerados (se aplicável)
+```
+
+## Tecnologias
+
+- `requests` - requisições HTTP
+- `BeautifulSoup` - parsing de XML
+- `openpyxl` - geração de arquivos Excel (se necessário)
+
+## Licença
+
+MIT
 
 
