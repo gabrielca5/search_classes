@@ -26,7 +26,7 @@ logger = logging.getLogger(__name__)
 XML_URL = "https://cgi.insper.edu.br/Agenda/xml/ExibeCalendario.xml"
 CURSO_BUSCADO = "2º CIÊNCIA DA COMPUTAÇÃO A"
 SALA_REFERENCIA = "513"
-PREDIO_REFERENCIA = "Quata 200"
+PREDIO_REFERENCIA = "PRÉDIO QUATÁ 200"
 MAX_RETRIES = 3
 REQUEST_TIMEOUT = 15
 
@@ -43,6 +43,7 @@ class AulaCurso:
     professor: str
     horario_inicio: str
     horario_termino: str
+    aula: Optional[str] = None
     dia_semana: Optional[str] = None
 
     def exibir_formatado(self) -> str:
@@ -50,8 +51,9 @@ class AulaCurso:
         return f"""📚 *{self.curso}*
 📍 Sala: {self.sala}
 🏢 Prédio: {self.predio}
-👨‍🏫 Professor: {self.professor}
-🕐 {self.horario_inicio} - {self.horario_termino}"""
+👤 Professor: {self.professor}
+📖 Aula: {self.aula if self.aula else "N/A"}
+⏰ {self.horario_inicio} - {self.horario_termino}"""
 
 
 # ============================================================================
@@ -102,16 +104,21 @@ def buscar_curso_no_xml(xml_content: bytes, curso_buscado: str) -> List[AulaCurs
                 hora_inicio = evento.find("horainicio").text.strip()
                 hora_termino = evento.find("horatermino").text.strip()
                 
-                aula = AulaCurso(
+                # Buscar titulo em vez de aula
+                titulo = evento.find("titulo")
+                titulo_text = titulo.text.strip() if titulo else None
+                
+                aula_obj = AulaCurso(
                     curso=turma,
                     sala=sala,
                     predio=predio,
                     professor=professor,
                     horario_inicio=hora_inicio,
-                    horario_termino=hora_termino
+                    horario_termino=hora_termino,
+                    aula=titulo_text
                 )
                 
-                aulas_encontradas.append(aula)
+                aulas_encontradas.append(aula_obj)
                 
         except (AttributeError, KeyError):
             continue
@@ -130,7 +137,7 @@ def buscar_horarios_sala_referencia(xml_content: bytes, sala: str, predio: str, 
         curso_excluir: Curso a excluir da busca
         
     Returns:
-        Dicionário com horários ocupados por curso
+        Dicionário com horários ocupados por curso e aula
     """
     soup = BeautifulSoup(xml_content, "lxml-xml")
     horarios_ocupados: Dict[str, Set[str]] = {}
@@ -146,9 +153,16 @@ def buscar_horarios_sala_referencia(xml_content: bytes, sala: str, predio: str, 
                 hora_inicio = evento.find("horainicio").text.strip()
                 hora_termino = evento.find("horatermino").text.strip()
                 
-                if turma not in horarios_ocupados:
-                    horarios_ocupados[turma] = set()
-                horarios_ocupados[turma].add((hora_inicio, hora_termino))
+                # Buscar titulo em vez de aula
+                titulo = evento.find("titulo")
+                titulo_text = titulo.text.strip() if titulo else ""
+                
+                # Criar chave com curso e título
+                chave_curso = f"{turma} - {titulo_text}" if titulo_text else turma
+                
+                if chave_curso not in horarios_ocupados:
+                    horarios_ocupados[chave_curso] = set()
+                horarios_ocupados[chave_curso].add((hora_inicio, hora_termino))
                 
         except (AttributeError, KeyError):
             continue
@@ -440,6 +454,8 @@ def formatar_todas_aulas(
         resultado += f"   📍 Sala: {aula.sala}\n"
         resultado += f"   🏢 Prédio: {aula.predio}\n"
         resultado += f"   👤 Professor: {aula.professor}\n"
+        if aula.aula:
+            resultado += f"   📖 Aula: {aula.aula}\n"
         resultado += f"   ⏰ Horário: {aula.horario_inicio} - {aula.horario_termino}\n"
         
         if idx < len(aulas):
@@ -468,8 +484,8 @@ def formatar_todas_aulas(
     if horarios_sala_referencia:
         resultado += f"📌 *SALA {sala_referencia} NESTES HORÁRIOS*\n"
         resultado += separador + "\n"
-        for curso_sala, horarios_sala in sorted(horarios_sala_referencia.items()):
-            resultado += f"{curso_sala}:\n"
+        for curso_aula, horarios_sala in sorted(horarios_sala_referencia.items()):
+            resultado += f"{curso_aula}:\n"
             for h_inicio, h_termino in sorted(horarios_sala):
                 resultado += f"   {h_inicio} - {h_termino}\n"
         resultado += "\n" + separador + "\n\n"
@@ -545,40 +561,289 @@ def formatar_todas_aulas(
     return resultado.strip()
 
 
+def buscar_todas_aulas_sala(xml_content: bytes, sala: str, predio: str) -> List[AulaCurso]:
+    """Busca TODAS as aulas de uma sala específica"""
+    soup = BeautifulSoup(xml_content, "lxml-xml")
+    aulas_sala: List[AulaCurso] = []
+    eventos = soup.find_all("CalendarioEvento")
+    
+    for evento in eventos:
+        try:
+            sala_evento = evento.find("sala").text.strip()
+            predio_evento = evento.find("predio").text.strip()
+            
+            if sala_evento == sala and predio_evento == predio:
+                turma = evento.find("turma").text.strip()
+                professor = evento.find("professor").text.strip()
+                hora_inicio = evento.find("horainicio").text.strip()
+                hora_termino = evento.find("horatermino").text.strip()
+                titulo = evento.find("titulo")
+                titulo_text = titulo.text.strip() if titulo else None
+                
+                aula_obj = AulaCurso(
+                    curso=turma,
+                    sala=sala,
+                    predio=predio,
+                    professor=professor,
+                    horario_inicio=hora_inicio,
+                    horario_termino=hora_termino,
+                    aula=titulo_text
+                )
+                aulas_sala.append(aula_obj)
+                
+        except (AttributeError, KeyError):
+            continue
+    
+    return aulas_sala
+
+
+def buscar_todas_aulas_do_dia(xml_content: bytes) -> List[AulaCurso]:
+    """
+    Busca TODAS as aulas que ocorrem no dia
+    
+    Args:
+        xml_content: Conteúdo do XML em bytes
+        
+    Returns:
+        Lista com todas as aulas do dia
+    """
+    soup = BeautifulSoup(xml_content, "lxml-xml")
+    todas_aulas: List[AulaCurso] = []
+    eventos = soup.find_all("CalendarioEvento")
+    
+    for evento in eventos:
+        try:
+            turma = evento.find("turma").text.strip()
+            sala = evento.find("sala").text.strip()
+            predio = evento.find("predio").text.strip()
+            professor = evento.find("professor").text.strip()
+            hora_inicio = evento.find("horainicio").text.strip()
+            hora_termino = evento.find("horatermino").text.strip()
+            titulo = evento.find("titulo")
+            titulo_text = titulo.text.strip() if titulo else None
+            
+            aula_obj = AulaCurso(
+                curso=turma,
+                sala=sala,
+                predio=predio,
+                professor=professor,
+                horario_inicio=hora_inicio,
+                horario_termino=hora_termino,
+                aula=titulo_text
+            )
+            todas_aulas.append(aula_obj)
+            
+        except (AttributeError, KeyError):
+            continue
+    
+    return todas_aulas
+
+
+def formatar_relatorio_completo(
+    aulas: List[AulaCurso],
+    todas_aulas_sala: List[AulaCurso],
+    todas_aulas_dia: List[AulaCurso],
+    xml_content: bytes,
+    predio: str,
+    sala_referencia: str
+) -> str:
+    """
+    Formata relatório COMPLETO:
+    1. Aulas do curso buscado
+    2. Todas as aulas da sala de referência
+    3. TODAS as aulas do dia
+    4. Análises e sugestões
+    """
+    data_atual = datetime.now().strftime("%d/%m/%Y")
+    sep_grande = "═" * 70
+    sep_pequeno = "─" * 70
+    
+    resultado = f"📋 *RELATÓRIO COMPLETO - {data_atual}*\n"
+    resultado += sep_grande + "\n\n"
+    
+    # ========== SEÇÃO 1: AULAS DO CURSO BUSCADO ==========
+    resultado += f"🎓 *AULAS DE {CURSO_BUSCADO}*\n"
+    resultado += sep_pequeno + "\n\n"
+    
+    for idx, aula in enumerate(aulas, 1):
+        resultado += f"{idx}. {aula.horario_inicio} - {aula.horario_termino}\n"
+        resultado += f"   📍 Sala: {aula.sala}\n"
+        resultado += f"   🏢 Prédio: {aula.predio}\n"
+        resultado += f"   👤 Professor: {aula.professor}\n"
+        if aula.aula:
+            resultado += f"   📖 {aula.aula}\n"
+        resultado += "\n"
+    
+    resultado += sep_grande + "\n\n"
+    
+    # ========== SEÇÃO 2: TODAS AS AULAS NA SALA DE REFERÊNCIA ==========
+    if todas_aulas_sala:
+        resultado += f"📌 *TODAS AS AULAS NA SALA {sala_referencia}*\n"
+        resultado += sep_pequeno + "\n\n"
+        
+        aulas_por_horario: Dict[tuple, List[AulaCurso]] = {}
+        for aula in todas_aulas_sala:
+            chave = (aula.horario_inicio, aula.horario_termino)
+            if chave not in aulas_por_horario:
+                aulas_por_horario[chave] = []
+            aulas_por_horario[chave].append(aula)
+        
+        for (h_inicio, h_termino), aulas_neste_horario in sorted(aulas_por_horario.items()):
+            resultado += f"⏰ *{h_inicio} - {h_termino}*\n"
+            for aula in aulas_neste_horario:
+                if aula.curso.upper() == CURSO_BUSCADO.upper():
+                    resultado += f"   ✓ {aula.curso} (SEU CURSO)\n"
+                else:
+                    resultado += f"   • {aula.curso}\n"
+                resultado += f"     Prof: {aula.professor}\n"
+            resultado += "\n"
+        
+        resultado += sep_grande + "\n\n"
+    
+    # ========== SEÇÃO 3: TODAS AS AULAS DO DIA ==========
+    resultado += f"📅 *TODAS AS AULAS DO DIA*\n"
+    resultado += sep_pequeno + "\n\n"
+    
+    aulas_por_horario_dia: Dict[tuple, List[AulaCurso]] = {}
+    for aula in todas_aulas_dia:
+        chave = (aula.horario_inicio, aula.horario_termino)
+        if chave not in aulas_por_horario_dia:
+            aulas_por_horario_dia[chave] = []
+        aulas_por_horario_dia[chave].append(aula)
+    
+    for (h_inicio, h_termino), aulas_neste_horario in sorted(aulas_por_horario_dia.items()):
+        resultado += f"⏰ *{h_inicio} - {h_termino}*\n"
+        for aula in sorted(aulas_neste_horario, key=lambda x: x.sala):
+            resultado += f"   • {aula.curso}\n"
+            resultado += f"     Sala: {aula.sala} | Prof: {aula.professor}\n"
+        resultado += "\n"
+    
+    resultado += sep_grande + "\n\n"
+    
+    # ========== SEÇÃO 4: RESUMO ==========
+    resultado += "📊 *RESUMO*\n"
+    resultado += sep_pequeno + "\n\n"
+    
+    aulas_outros_cursos = [aula for aula in todas_aulas_sala 
+                           if aula.curso.upper() != CURSO_BUSCADO.upper()]
+    
+    resultado += f"Aulas do seu curso: {len(aulas)}\n"
+    resultado += f"Total de aulas na sala {sala_referencia}: {len(todas_aulas_sala)}\n"
+    resultado += f"Total de aulas do dia: {len(todas_aulas_dia)}\n"
+    resultado += f"Aulas de outros cursos na sala: {len(aulas_outros_cursos)}\n\n"
+    
+    if aulas_outros_cursos:
+        resultado += f"🚨 *CONFLITOS DETECTADOS:* {len(aulas_outros_cursos)} aula(s) de outro(s) curso(s) na sala {sala_referencia}\n"
+    else:
+        resultado += f"✅ *SEM CONFLITOS:* Sala {sala_referencia} é exclusiva para seu curso!\n"
+    
+    resultado += "\n" + sep_grande
+    
+    return resultado
+
+
+def formatar_horarios_sala_e_curso(
+    todas_aulas_sala: List[AulaCurso],
+    aulas_curso: List[AulaCurso],
+    sala: str,
+    curso: str
+) -> str:
+    """
+    Formata todos os horários da sala e do curso em um único relatório
+    
+    Args:
+        todas_aulas_sala: Todas as aulas da sala de referência
+        aulas_curso: Todas as aulas do curso buscado
+        sala: Número da sala
+        curso: Nome do curso
+        
+    Returns:
+        String com formatação de horários
+    """
+    data_atual = datetime.now().strftime("%d/%m/%Y")
+    sep = "═" * 70
+    
+    resultado = f"📋 *HORÁRIOS - {data_atual}*\n"
+    resultado += sep + "\n\n"
+    
+    # ========== SEÇÃO 1: TODOS OS HORÁRIOS DA SALA ==========
+    resultado += f"📍 *TODOS OS HORÁRIOS DA SALA {sala}*\n"
+    resultado += "─" * 70 + "\n\n"
+    
+    if todas_aulas_sala:
+        aulas_por_horario: Dict[tuple, List[AulaCurso]] = {}
+        for aula in todas_aulas_sala:
+            chave = (aula.horario_inicio, aula.horario_termino)
+            if chave not in aulas_por_horario:
+                aulas_por_horario[chave] = []
+            aulas_por_horario[chave].append(aula)
+        
+        for (h_inicio, h_termino), aulas_neste_horario in sorted(aulas_por_horario.items()):
+            resultado += f"⏰ *{h_inicio} - {h_termino}*\n"
+            for aula in aulas_neste_horario:
+                resultado += f"   • {aula.curso}\n"
+                resultado += f"     Prof: {aula.professor}\n"
+                if aula.aula:
+                    resultado += f"     {aula.aula}\n"
+            resultado += "\n"
+    else:
+        resultado += "Nenhuma aula encontrada para esta sala.\n\n"
+    
+    resultado += sep + "\n\n"
+    
+    # ========== SEÇÃO 2: TODOS OS HORÁRIOS DO CURSO ==========
+    resultado += f"🎓 *TODOS OS HORÁRIOS DO CURSO {curso}*\n"
+    resultado += "─" * 70 + "\n\n"
+    
+    if aulas_curso:
+        aulas_curso_por_horario: Dict[tuple, List[AulaCurso]] = {}
+        for aula in aulas_curso:
+            chave = (aula.horario_inicio, aula.horario_termino)
+            if chave not in aulas_curso_por_horario:
+                aulas_curso_por_horario[chave] = []
+            aulas_curso_por_horario[chave].append(aula)
+        
+        for (h_inicio, h_termino), aulas_neste_horario in sorted(aulas_curso_por_horario.items()):
+            resultado += f"⏰ *{h_inicio} - {h_termino}*\n"
+            for aula in aulas_neste_horario:
+                resultado += f"   Sala: {aula.sala}\n"
+                resultado += f"   Prof: {aula.professor}\n"
+                resultado += f"   Prédio: {aula.predio}\n"
+                if aula.aula:
+                    resultado += f"   {aula.aula}\n"
+            resultado += "\n"
+    else:
+        resultado += "Nenhuma aula encontrada para este curso.\n\n"
+    
+    resultado += sep
+    
+    return resultado
+
+
 # ============================================================================
 # FUNÇÃO PRINCIPAL
 # ============================================================================
 def main():
     """Função principal"""
-    # Buscar XML
     xml_content = buscar_xml_com_retry(XML_URL)
     if not xml_content:
         return
     
     # Buscar aulas do curso específico
-    aulas = buscar_curso_no_xml(xml_content, CURSO_BUSCADO)
+    aulas_curso = buscar_curso_no_xml(xml_content, CURSO_BUSCADO)
     
-    if not aulas:
-        print(f"❌ Nenhuma aula encontrada para: {CURSO_BUSCADO}")
-        return
-    
-    # Buscar horários em que a sala de referência está ocupada (excluindo o curso buscado)
-    horarios_ocupados = buscar_horarios_sala_referencia(
-        xml_content, SALA_REFERENCIA, PREDIO_REFERENCIA, CURSO_BUSCADO
+    # Buscar todas as aulas da sala de referência
+    todas_aulas_sala = buscar_todas_aulas_sala(
+        xml_content, SALA_REFERENCIA, PREDIO_REFERENCIA
     )
     
-    # Exibir aulas do curso com análise completa
-    print(formatar_todas_aulas(
-        aulas,
-        horarios_ocupados,
-        xml_content,
-        PREDIO_REFERENCIA,
-        SALA_REFERENCIA
+    # Exibir apenas o relatório de horários da sala e do curso
+    print(formatar_horarios_sala_e_curso(
+        todas_aulas_sala,
+        aulas_curso,
+        SALA_REFERENCIA,
+        CURSO_BUSCADO
     ))
-    
-    if not horarios_ocupados:
-        print(f"\nℹ️ A sala {SALA_REFERENCIA} está livre em todo o período (ou ocupada apenas por {CURSO_BUSCADO})")
-        return
 
 
 if __name__ == "__main__":
